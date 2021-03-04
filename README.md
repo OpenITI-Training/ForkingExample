@@ -11,7 +11,7 @@ Fork this repo to see how Forking and Pull requests work in GitHub
   - Click the green `Create pull request` button 
   - Provide a title and description for your pull request and click the button.
 
-NB: the term "fork" does not refer to the eating utensil but to the imagery of a fork in a river, the place where a branch splits off from the main branch of a river: 
+NB: the term "fork" does not refer to the eating utensil but to the image of a fork in a river, the place where a large branch splits off from the main branch of the river: 
 
 ![Nile fork](img/Nile.png)
 
