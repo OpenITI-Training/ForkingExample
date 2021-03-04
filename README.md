@@ -8,7 +8,8 @@ Fork this repo to see how Forking and Pull requests work in GitHub
   - click the `Pull requests` button under the name of the repository
   - click the green `New pull request` button
   - Make sure your fork is on the right-hand side, and the upstream repo on the left-hand side; the arrow indicates in which direction your changes need to flow. 
-  - Clikc the green `Create pull request` button 
+  - Click the green `Create pull request` button 
+  - Provide a title and description for your pull request and click the button.
 
 NB: the term "fork" does not refer to the eating utensil but to the imagery of a fork in a river, the place where a branch splits off from the main branch of a river: 
 
